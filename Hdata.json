@@ -1,0 +1,32 @@
+[
+    {
+        "hospitalName": "Medicity",
+        "hospitalLocation": "Kollam",
+        "patientCount": "680"
+    },
+    {
+        "hospitalName": "NS Hospital",
+        "hospitalLocation": "Kottayam",
+        "patientCount": "800"
+    },
+    {
+        "hospitalName": "KIMS",
+        "hospitalLocation": "Trivandrum",
+        "patientCount": "600"
+    },
+    {
+        "hospitalName": "Anamaya",
+        "hospitalLocation": "Kannur",
+        "patientCount": "390"
+    },
+    {
+        "hospitalName": "MIMS",
+        "hospitalLocation": "Calicut",
+        "patientCount": "250"
+    },
+    {
+        "hospitalName": "Lakeshore",
+        "hospitalLocation": "Kochi",
+        "patientCount": "850"
+    }
+]
